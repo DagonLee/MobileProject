@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">//회원가입시 과 선택에서 나올 array
+        <item>건축공학과</item>
+        <item>기계공학과</item>
+        <item>디자인공학과</item>
+        <item>메카트로닉스공학과</item>
+        <item>산업경영학과</item>
+        <item>에너지신소재화학공학과</item>
+        <item>전기전자정보통신공학과</item>
+        <item>컴퓨터공학과</item>
+    </string-array>
+    <string-array name="coursemajor">//추가화면에서 나올 array
+        <item>건축공학부</item>
+        <item>기계공학부</item>
+        <item>디자인공학과</item>
+        <item>메카트로닉스공학부</item>
+        <item>문리HRD학부</item>
+        <item>산업경영학과</item>
+        <item>에너지신소재화학공학부</item>
+        <item>융합학과</item>
+        <item>전기ㆍ전자ㆍ통신공학부</item>
+        <item>컴퓨터공학부</item>
+    </string-array>
+    <string-array name="courseYear">//추가화면에서 나올 array
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+
+    </string-array>
+    <string-array name="courseTerm">//추가화면에서 나올 array
+        <item>1학기</item>
+        <item>2학기</item>
+
+    </string-array>
+    <string-array name="courseArea">//추가화면에서 나올 array
+        <item>전공필수</item>
+        <item>전공선택</item>
+        <item>HRD선택</item>
+        <item>HRD필수</item>
+        <item>교양선택</item>
+        <item>교양필수</item>
+        <item>MSC선택</item>
+        <item>MSC필수</item>
+        <item>자유선택</item>
+
+    </string-array>
+
+</resources>
